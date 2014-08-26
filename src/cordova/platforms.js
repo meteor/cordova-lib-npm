@@ -31,7 +31,7 @@ module.exports = {
     'android' : {
         parser : './metadata/android_parser',
         url    : 'https://github.com/meteor/cordova-android.git',
-        version: '3.5.1-fix'
+        version: '3.5.0-fix'
     },
     'ubuntu' : {
         hostos : ['linux'],
