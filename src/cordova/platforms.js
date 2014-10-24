@@ -30,8 +30,8 @@ module.exports = {
     },
     'android' : {
         parser : './metadata/android_parser',
-        url    : 'https://github.com/meteor/cordova-android/tarball/0c74a6f6b3325fd44fc66634c45dccd391058ec7?', // XXX METEOR: a hack to get a tarball for the specific fork we use
-        version: '3.5.0-fix' // XXX METEOR: because the url above ends with '?', this does nothing
+        url    : 'https://github.com/meteor/cordova-android/tarball/6ddd543efaedbd83b769017d58c516c13bcc116f?', // XXX METEOR: a hack to get a tarball for the specific fork we use
+        version: '3.5.1-fix' // XXX METEOR: because the url above ends with '?', this does nothing
     },
     'ubuntu' : {
         hostos : ['linux'],
