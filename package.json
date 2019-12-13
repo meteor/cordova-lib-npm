@@ -22,7 +22,7 @@
     "elementtree": "0.1.5",
     "glob": "3.2.x",
     "mime": "~1.2.11",
-    "npm": "1.3.4",
+    "npm": "6.13.4",
     "npmconf": "0.1.x",
     "osenv": "0.0.x",
     "plist-with-patches": "0.5.x",
