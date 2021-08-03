@@ -32,7 +32,7 @@
     "request": "2.22.0",
     "semver": "2.0.x",
     "shelljs": "0.1.x",
-    "tar": "0.1.x",
+    "tar": "4.4.x",
     "underscore": "1.4.4",
     "xcode": "0.6.6",
     "cordova-js": "3.x.x"
