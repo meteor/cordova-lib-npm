@@ -29,7 +29,7 @@
     "properties-parser": "~0.2.3",
     "q": "~0.9",
     "rc": "0.3.0",
-    "request": "2.22.0",
+    "request": "2.88.2",
     "semver": "2.0.x",
     "shelljs": "0.1.x",
     "tar": "0.1.x",
