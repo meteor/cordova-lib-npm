@@ -21,7 +21,7 @@
     "dep-graph": "1.1.0",
     "elementtree": "0.1.5",
     "glob": "3.2.x",
-    "mime": "~1.2.11",
+    "mime": "~1.4.1",
     "npm": "6.14.6",
     "npmconf": "0.1.x",
     "osenv": "0.0.x",
